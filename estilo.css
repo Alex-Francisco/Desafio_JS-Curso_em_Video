@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+body, html {
+    height: 100%;
+    background: url(img/bg.jpg) center center;
+}
+
+.cx-transp-esq, .cx-transp-dir {
+    background: rgba(255, 255, 255, 0.8);
+    width: auto;
+    height: 315px;
+}
+
+.cx-transp-esq {  
+    padding: 30px;
+    margin: 10px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+.bg-escolha {
+    margin-top: 37px;
+}
+
+#nacionalidade {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    margin-top: 16px;
+}
